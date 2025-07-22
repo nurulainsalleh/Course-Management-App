@@ -13,7 +13,7 @@ A full-stack Course Management System built with **Laravel (Backend)**, **Blade 
 - **Frontend:** Blade + Tailwind CSS (via Vite)
 - **Database:** SQLite (file-based)
 - **Version Control:** Git + GitHub
-- **Tooling:** Composer, NPM, XAMPP, VS Code
+- **Tooling:** Composer, NPM, VS Code
 
 ---
 
